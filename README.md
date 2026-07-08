@@ -125,4 +125,3 @@ http://localhost/organ_project/
 Developed as a DBMS Mini Project by:
 
 - Sobia Inamdar
-- Trisha Poddar
